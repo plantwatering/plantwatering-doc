@@ -1,0 +1,12 @@
+<diagram program="umletino" version="14.3.0"><zoom_level>10</zoom_level><element><id>UMLPackage</id><coordinates><x>220</x><y>190</y><w>440</w><h>210</h></coordinates><panel_attributes>Device
+--
+bg=orange
+layer=-1</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLInterface</id><coordinates><x>240</x><y>250</y><w>200</w><h>120</h></coordinates><panel_attributes>Smartphone communication
+--
++ start(): int
++ stop():int
++ setDeviceName(name: string): int</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLInterface</id><coordinates><x>470</x><y>250</y><w>140</w><h>120</h></coordinates><panel_attributes>Valve
+--
++ set(value: bool): int
++ get(value: bool*): int
++ notificate(callback): int</panel_attributes><additional_attributes></additional_attributes></element></diagram>

@@ -1,0 +1,6 @@
+<diagram program="umletino" version="14.3.0"><zoom_level>10</zoom_level><element><id>UMLGeneric</id><coordinates><x>540</x><y>130</y><w>120</w><h>220</h></coordinates><panel_attributes>symbol=component
+Device</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>190</x><y>130</y><w>140</w><h>220</h></coordinates><panel_attributes>symbol=component
+Smartphone</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>420</x><y>200</y><w>140</w><h>50</h></coordinates><panel_attributes>lt=()-[]
+Remote
+connection</panel_attributes><additional_attributes>10;20;120;20</additional_attributes></element><element><id>Relation</id><coordinates><x>320</x><y>200</y><w>120</w><h>50</h></coordinates><panel_attributes>lt=[]-(</panel_attributes><additional_attributes>10;20;90;20</additional_attributes></element><element><id>Relation</id><coordinates><x>420</x><y>250</y><w>140</w><h>40</h></coordinates><panel_attributes>lt=()-[]
+Valve</panel_attributes><additional_attributes>10;20;120;20</additional_attributes></element><element><id>Relation</id><coordinates><x>320</x><y>250</y><w>120</w><h>50</h></coordinates><panel_attributes>lt=[]-(</panel_attributes><additional_attributes>10;20;90;20</additional_attributes></element></diagram>
